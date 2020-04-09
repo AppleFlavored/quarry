@@ -1,6 +1,5 @@
 package tk.appleflavored.quarry;
 
-import org.bukkit.Bukkit;
 import org.bukkit.GameMode;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
@@ -9,9 +8,9 @@ import org.bukkit.event.block.BlockBreakEvent;
 
 public class BlockEvents implements Listener {
 
-    private Main plugin;
+    private Quarry plugin;
 
-    public BlockEvents(Main plugin) {
+    public BlockEvents(Quarry plugin) {
         this.plugin = plugin;
     }
 

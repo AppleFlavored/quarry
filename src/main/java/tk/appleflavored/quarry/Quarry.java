@@ -3,7 +3,7 @@ package tk.appleflavored.quarry;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class Main extends JavaPlugin {
+public class Quarry extends JavaPlugin {
 
     @Override
     public void onEnable() {

@@ -1,0 +1,4 @@
+main: tk.appleflavored.quarry.Main
+name: Quarry
+version: 1.0.0
+api-version: 1.15

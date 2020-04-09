@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quarry">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="Quarry.jar">
+      <element id="module-output" name="quarry" />
+    </root>
+  </artifact>
+</component>
